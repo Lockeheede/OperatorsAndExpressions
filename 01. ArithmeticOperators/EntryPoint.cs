@@ -49,6 +49,7 @@ class EntryPoint
         int remainder2 = 4 % 2;
         Console.WriteLine(remainder2);
 
+        
 
 
         
