@@ -13,6 +13,23 @@ class EntryPoint
         Console.WriteLine(++secondNumber);//-4
 
         //There is also *=, /=. and %= operators/
+        secondNumber *= firstNumber; //-44, because -4 * 11
+        Console.WriteLine(secondNumber);
+
+        int thirdNumber = 7;
+        secondNumber /= thirdNumber++; //second = -6, third = 8
+        Console.WriteLine(secondNumber);
+        Console.WriteLine(thirdNumber);
+
+        secondNumber = secondNumber * -1; //6
+        Console.WriteLine(secondNumber);
+        firstNumber %= secondNumber; //5
+        Console.WriteLine(firstNumber);
+
+        //This was after many different tries to calculate. The assignment operators can be very
+        //confusing if you do not keep track of the right data. 
+
+
 
 
 
