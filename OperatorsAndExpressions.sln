@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ComparisonOperators", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. LogicalOperators", "04. LogicalOperators\04. LogicalOperators.csproj", "{EBA26FF6-80A6-4A71-9CE7-63CE5312C2E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. TernaryOperators", "05. TernaryOperators\05. TernaryOperators.csproj", "{B5EBDEE0-CB4A-4FC1-910D-B1468E8B66BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EBA26FF6-80A6-4A71-9CE7-63CE5312C2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBA26FF6-80A6-4A71-9CE7-63CE5312C2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBA26FF6-80A6-4A71-9CE7-63CE5312C2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EBDEE0-CB4A-4FC1-910D-B1468E8B66BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EBDEE0-CB4A-4FC1-910D-B1468E8B66BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EBDEE0-CB4A-4FC1-910D-B1468E8B66BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EBDEE0-CB4A-4FC1-910D-B1468E8B66BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
